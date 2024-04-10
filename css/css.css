@@ -105,7 +105,7 @@ a {
     margin-bottom: 30px;
 }
 .contentitle p {
-    color: #A4ABAF;
+    color: #3f4b52;
     font-size: 22px;
 }
 .hero__top__right {
@@ -116,12 +116,6 @@ a {
     color: #3d98e9;
 }
 
-/*.logicanimation {
-    position: relative;
-    display: flex;
-    justify-content: right;
-    padding-top: 120px;
-}*/
 .logicanimation img {
     position: absolute;
     right: 150px;
